@@ -15,11 +15,18 @@
                 "openssl",
                 "pipewire-codec-aptx",
                 "smartmontools",
-                "vim"
+                "vim",
+                "fish",
+                "btop",
+                "powertop",
+                "neofetch"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
-                "gnome-tweaks"
+                "gnome-tweaks",
+                "gnome-shell-extension-appindicator",
+                "gnome-shell-extension-dash-to-dock",
+                "yaru-theme"
             ],
             "lxqt": [
                 "breeze-cursor-theme",
