@@ -106,8 +106,6 @@ See [the documentation](https://ublue.it/making-your-own/) on how use this image
 This image can be used as an end user desktop or as something to derive from.
 [The architecture](https://ublue.it/architecture/) looks like this:
 
-![](https://ublue.it/ublue-architecture-graph.png)
-
 ### Adding Applications
 
 Edit the `packages.json` file with your preferred applications.
